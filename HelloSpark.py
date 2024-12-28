@@ -12,3 +12,5 @@ if __name__ == "__main__":
         ("David", 45),
         ("Abdul", 37)
     ]
+
+    print(data_list)
