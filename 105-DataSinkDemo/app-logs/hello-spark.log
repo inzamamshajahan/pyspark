@@ -1,0 +1,2 @@
+25/01/11 11:11:10 INFO SparkSchemaDemo: Num Partitions before: 2
+25/01/11 11:11:19 INFO SparkSchemaDemo: Num Partitions after: 5
