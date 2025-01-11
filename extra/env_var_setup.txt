@@ -1,7 +1,7 @@
 setx JAVA_HOME "C:\Program Files\Java\jdk-17" && setx HADOOP_HOME  "C:\new\hadoop-3.3.6" && setx SPARK_HOME "C:\new\spark-3.5.4" && setx PYTHONPATH "C:\new\spark-3.5.4\python;C:\new\spark-3.5.4\python\lib\py4j-0.10.9.7-src.zip" && setx PYSPARK_PYTHON "C:\Progra~1\Python\PYTHON~1\python.exe"
 
 C:\Program Files\Java\jdk-17\bin
-C:\Program Files\Java\jdk-17\bin
+C:\new\hadoop-3.3.6\bin
 C:\new\spark-3.5.4\bin
 
 git config --global user.email "inz@gmail.com"
